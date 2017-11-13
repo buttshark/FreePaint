@@ -1,7 +1,7 @@
 # FreePaint
 Computer Vision project for Hack112 @ CMU - 2nd place
 
-This project utilizes OpenCV to read the contours of hand and uses convexity defects in order to read the junctions between fingers and get the longest finger, which acts as the drawing pointer. Use an external webcam and hang it above a black backdrop, and try using your hand to draw! There will be three windows if you initialize home.py, and one will be the app, one the contour map of your hand, and one of the webcam image with your hand being tracked.
+This project utilizes OpenCV to read the contours of hand and uses convexity defects in order to read the junctions between fingers and get the longest finger, which acts as the drawing pointer. Use an external webcam and hang it above a black backdrop, and try using your hand to draw! There will be three windows if you initialize main.py: one will be the app, one the contour map of your hand, and one of the webcam image with your hand being tracked.
 
 
 TECHNIQUES:
